@@ -1,4 +1,4 @@
-### Hi there, I'm Narni Lalith Adityan! 👋
+[### Hi there, I'm Narni Lalith Adityan! 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=lalithadityan&label=PROFILE+VIEWS&style=flat-square&color=blue)](https://github.com/lalithadityan)
 [![GitHub Followers](https://img.shields.io/github/followers/lalithadityan?style=flat-square)](https://github.com/lalithadityan)
@@ -67,3 +67,4 @@
 ---
 
 🚀 *Striving for excellence, one line of code at a time!* ✨
+](https://github.com/lalityans)
