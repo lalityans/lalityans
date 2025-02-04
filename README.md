@@ -55,14 +55,14 @@
 
 ## 📊 GitHub Stats
 
-![Lalith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalithadityan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalithadityan&layout=compact&theme=radical)
+![Lalith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalityans&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalityans&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Connect with Me
 📧 **Email:** lalithnarni@gmail.com  
-🐙 **GitHub:** [lalithadityan](https://github.com/lalithadityan)
+🐙 **GitHub:** [lalityans](https://github.com/lalityans)
 
 ---
 
