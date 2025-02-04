@@ -39,7 +39,7 @@
 
 📌 **Metro Management System** - Implemented a SQL-based metro transit management solution optimizing route handling and passenger data management.
 
-🔗 Explore More on [My GitHub Repositories](https://github.com/lalithadityan?tab=repositories)
+🔗 Explore More on [My GitHub Repositories](https://github.com/lalityans?tab=repositories)
 
 ---
 
